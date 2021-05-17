@@ -37,6 +37,12 @@ const webpackConfig = {
       title: "vanillaJS app",
       template: path.resolve(__dirname, "src", "index.html"),
     }),
+    // new ESLintPlugin({
+    //   // Plugin options
+    //   extensions: ["js", "mjs", "jsx", "ts", "tsx"],
+    //   eslintPath: require.resolve("eslint"),
+    //   // context: path.appSrc,
+    // }),
   ],
   optimization: {
     splitChunks: {
