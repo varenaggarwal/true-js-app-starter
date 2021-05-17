@@ -1,5 +1,5 @@
 {
-	"name": "pure-js-app-starter",
+	"name": "true-js-app-starter",
 	"version": "1.0.0",
 	"description": "Get vanillaJS apps written with modern tools",
 	"main": "index.js",
@@ -16,8 +16,8 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/varenaggarwal/pure-js-app-starter"
-	  },
+		"url": "https://github.com/varenaggarwal/true-js-app-starter"
+	},
 	"author": "Varen Aggarwal",
 	"license": "MIT",
 	"devDependencies": {
